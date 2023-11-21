@@ -1,1 +1,7 @@
 .env*
+data/.ipynb_checkpoints
+data/data_small/.ipynb_checkpoints
+data/data_small.zip
+data/data_small.zip:Zone.Identifier
+data/tutorial.ipynb
+Untitled.ipynb
